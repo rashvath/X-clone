@@ -2,7 +2,6 @@
 import Image from "./Image";
 import PostInfo from "./PostInfo";
 import PostInteractions from "./PostInteractions";
-//import Video from "./Video";
 import Link from "next/link";
 
 // interface FileDetailsResponse {
