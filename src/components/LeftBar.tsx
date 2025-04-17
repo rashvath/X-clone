@@ -111,7 +111,7 @@ const LeftBar = () => {
           <div className="w-10 h-10 relative rounded-full overflow-hidden">
             <Image
               path="/general/avatar.png"
-              alt="lama dev"
+              alt="rashvath"
               w={100}
               h={100}
               tr={true}
